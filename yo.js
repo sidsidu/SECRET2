@@ -8,5 +8,5 @@ function no()
 {
     var img = document.getElementById('image');
     img.src = 'no.gif';
-    var text1 = document.getElementById('start').innerText='NOO :('
+    var text1 = document.getElementById('start').innerText='NOOOOOOOOOOOO BAD :('
 }
